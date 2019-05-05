@@ -1,0 +1,7 @@
+c:\users\luis_\source\repos\TAD-Pila\TAD-Pila\bin\Debug\TAD-Pila.exe.config
+c:\users\luis_\source\repos\TAD-Pila\TAD-Pila\bin\Debug\TAD-Pila.exe
+c:\users\luis_\source\repos\TAD-Pila\TAD-Pila\bin\Debug\TAD-Pila.pdb
+c:\users\luis_\source\repos\TAD-Pila\TAD-Pila\obj\Debug\TAD-Pila.csprojAssemblyReference.cache
+c:\users\luis_\source\repos\TAD-Pila\TAD-Pila\obj\Debug\TAD-Pila.csproj.CoreCompileInputs.cache
+c:\users\luis_\source\repos\TAD-Pila\TAD-Pila\obj\Debug\TAD-Pila.exe
+c:\users\luis_\source\repos\TAD-Pila\TAD-Pila\obj\Debug\TAD-Pila.pdb

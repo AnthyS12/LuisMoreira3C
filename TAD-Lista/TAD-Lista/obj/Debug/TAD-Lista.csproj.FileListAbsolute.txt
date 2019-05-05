@@ -1,0 +1,7 @@
+C:\Users\luis_\source\repos\TAD-Lista\TAD-Lista\obj\Debug\TAD-Lista.csprojAssemblyReference.cache
+C:\Users\luis_\source\repos\TAD-Lista\TAD-Lista\obj\Debug\TAD-Lista.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\TAD-Lista\TAD-Lista\bin\Debug\TAD-Lista.exe.config
+C:\Users\luis_\source\repos\TAD-Lista\TAD-Lista\bin\Debug\TAD-Lista.exe
+C:\Users\luis_\source\repos\TAD-Lista\TAD-Lista\bin\Debug\TAD-Lista.pdb
+C:\Users\luis_\source\repos\TAD-Lista\TAD-Lista\obj\Debug\TAD-Lista.exe
+C:\Users\luis_\source\repos\TAD-Lista\TAD-Lista\obj\Debug\TAD-Lista.pdb
